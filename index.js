@@ -37,7 +37,7 @@ app.listen(port, () => {
 
 
 const statusMessages = ["Join 8NF Today! https://discord.gg/4wZWmvWGrA"];
-const botDescription = "Join 8NF Today! https://discord.gg/4wZWmvWGrA";
+
 
 let currentIndex = 0;
 const channelId = '';
